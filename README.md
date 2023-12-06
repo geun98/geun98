@@ -31,8 +31,9 @@ Here are some ideas to get you started:
     </div>
     <!-- Tool -->
     <p><strong>Tool</strong></p>
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=default">
-    <img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-FF6F00.svg?style=for-the-badge&logo=Tensorflow&logoColor=default">
-    <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=Keras&logoColor=default">
+    <img alt="visualstudiocode" src="https://img.shields.io/badge/visualstudiocode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+    <img alt="jupyter" src="https://img.shields.io/badge/jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white">
+    <img alt="googlecolab" src="https://img.shields.io/badge/googlecolab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white">
+    <img alt="anaconda" src="https://img.shields.io/badge/anaconda-44A833.svg?style=for-the-badge&logo=anaconda&logoColor=white">
 <br>
 </div>
