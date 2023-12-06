@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Database -->
     <p><strong>Database</strong></p>
-    <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=SQLite&logoColor=black">
+    <img alt="SQLite" src ="https://img.shields.io/badge/SQLite-003B57.svg?&style=for-the-badge&logo=SQLite&logoColor=white"/>
     <div>
     <!-- Stack -->
     <p><strong>Stack</strong></p>
