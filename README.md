@@ -22,7 +22,7 @@ Here are some ideas to get you started:
     <div>
     <!-- Stack -->
     <p><strong>Stack</strong></p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=default">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=default">
         
     </div>
     <!-- Tool -->
