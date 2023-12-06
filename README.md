@@ -22,10 +22,17 @@ Here are some ideas to get you started:
     <div>
     <!-- Stack -->
     <p><strong>Stack</strong></p>
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=default">
-        
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=default">
+    <img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-FF6F00.svg?style=for-the-badge&logo=Tensorflow&logoColor=default">
+    <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=Keras&logoColor=default">
+    <img alt="Scikitlearn" src="https://img.shields.io/badge/Scikitlearn-F7931E.svg?style=for-the-badge&logo=Scikitlearn&logoColor=default">
+    <img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=default">
+    <img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-EE4C2C.svg?style=for-the-badge&logo=Pytorch&logoColor=default">    
     </div>
     <!-- Tool -->
     <p><strong>Tool</strong></p>
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=default">
+    <img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-FF6F00.svg?style=for-the-badge&logo=Tensorflow&logoColor=default">
+    <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=Keras&logoColor=default">
 <br>
 </div>
