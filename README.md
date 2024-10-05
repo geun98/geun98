@@ -26,8 +26,7 @@ Here are some ideas to get you started:
     <img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-FF6F00.svg?style=for-the-badge&logo=Tensorflow&logoColor=white">
     <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
     <img alt="Scikitlearn" src="https://img.shields.io/badge/Scikitlearn-F7931E.svg?style=for-the-badge&logo=Scikitlearn&logoColor=white">
-    <img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white">
-    <img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-EE4C2C.svg?style=for-the-badge&logo=Pytorch&logoColor=white">    
+    <img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white">  
     </div>
     <!-- Tool -->
     <p><strong>Tool</strong></p>
