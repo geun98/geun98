@@ -1,17 +1,30 @@
-### Hi there 👋
+# 👋 Hi, I’m geun98!
 
-<!--
-**geun98/geun98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- Passionate developer who loves learning and sharing knowledge.
+- Always exploring new technologies and building meaningful projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** Python, JavaScript, Java
+- **Frameworks/Libraries:** React, Node.js, Express
+- **Database:** MySQL, MongoDB
 
+## 🌟 Featured Projects
+
+- [MAI](https://github.com/geun98/MAI): My AI-powered project.  
+- [fandomproject-alive](https://github.com/geun98/fandomproject-alive): A fun and dynamic fandom project.
+
+## ✍️ Blog
+
+- [Velog @hana_dorobo](https://velog.io/@hana_dorobo/posts) – Check out my posts on technology, development, and more!
+
+## 📊 GitHub Stats
+
+![geun98's GitHub stats](https://github-readme-stats.vercel.app/api?username=geun98&show_icons=true&theme=default)
+
+---
+
+Thanks for visiting my profile!  
+Feel free to explore my repositories or reach out!
