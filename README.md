@@ -6,11 +6,6 @@ Welcome to my GitHub profile!
 - Passionate developer who loves learning and sharing knowledge.
 - Always exploring new technologies and building meaningful projects.
 
-## 🛠️ Tech Stack
-- **Languages:** Python, JavaScript, Java
-- **Frameworks/Libraries:** React, Node.js, Express
-- **Database:** MySQL, MongoDB
-
 ## 🌟 Featured Projects
 
 - [MAI](https://github.com/geun98/MAI): My AI-powered project.  
